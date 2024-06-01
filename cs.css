@@ -7,7 +7,7 @@ body, html {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(to bottom right, #646463, #b19a8b);
+  background: linear-gradient(to bottom right, #ebebe7, #13a3cf);
   color: white;
   text-align: center;
   box-sizing: border-box;
